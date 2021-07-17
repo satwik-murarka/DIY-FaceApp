@@ -8,3 +8,7 @@ Will update about the progress of my work for the project DIY FaceApp
 ## Checkpoint 2
 * Completed the [tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) on PyTorch and studied about Convolutional Neural Networks
 * Applied a Convolutional Neural Network in Pytorch to classify the CIFAR10 dataset.
+
+## Final Submission
+* Studied about Generative Adversarial Networks and there implementation in PyTorch
+* Implemented a traditional GAN on the MNIST dataset and generated fake handwritten digits using the model
